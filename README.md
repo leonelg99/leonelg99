@@ -27,6 +27,7 @@ También estoy desarrollando un cliente en **.NET para Windows** para manejarlo 
 🔹 Controlado con una **MCU ESP32** para procesar datos en tiempo real. 
 
 🔹 **Backend:** Spring Boot, MongoDB, MQTT.
+
 🔹 **Frontend:** Angular 18, Node.js.  
 
 
