@@ -24,10 +24,11 @@ También estoy desarrollando un cliente en **.NET para Windows** para manejarlo 
 
 📌 **Taller de Proyecto 2: A2-LiDAR-VL53L0X (Cyclops)**  
 🔹 Vehículo robot para **mapeo de entornos** mediante un **sensor LiDAR**.  
-🔹 Controlado con una **MCU ESP32** para procesar datos en tiempo real. 
-🔹 **Backend:** Spring Boot, MongoDB, MQTT.
+🔹 Controlado con una **MCU ESP32** para procesar datos en tiempo real.  
 
-🔹 **Frontend:** Angular 18, Node.js.  
+🔹 **Tecnologías utilizadas:**  
+   - **Backend:** Spring Boot, MongoDB, MQTT  
+   - **Frontend:** Angular 18, Node.js  
 
 
 ---
