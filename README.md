@@ -29,16 +29,3 @@ También estoy desarrollando un cliente en **.NET para Windows** para manejarlo 
 🔹 **Tecnologías utilizadas:**  
    - **Backend:** Spring Boot, MongoDB, MQTT  
    - **Frontend:** Angular 18, Node.js  
-
-
----
-
-## 📫 Contacto  
-
-📍 **Ubicación:** [Tu Ciudad, País]  
-📧 **Email:** [Tu Correo]  
-🔗 **LinkedIn:** [Tu Perfil]  
-
----
-
-¡Siempre estoy abierto a colaborar en nuevos proyectos! 🚀✨  
