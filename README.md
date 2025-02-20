@@ -22,7 +22,7 @@ También estoy desarrollando un cliente en **.NET para Windows** para manejarlo 
 🔹 Vehículo robot de cuatro motores basado en una **MCU EDU-CIAA** y un **ESP32-CAM**.  
 🔹 Firmware desarrollado en **C y Arduino**, con cliente en **Python**.  
 
-📌 **Taller de Proyecto 2: A2-LiDAR-VL53L0X (Cyclops)**  
+📌 **Taller de Proyecto 2: [A2-LiDAR-VL53L0X (Cyclops)](https://github.com/tpII/2024-A2-LIDAR-Vl53l0)**  
 🔹 Vehículo robot para **mapeo de entornos** mediante un **sensor LiDAR**.  
 🔹 Controlado con una **MCU ESP32** para procesar datos en tiempo real.  
 
